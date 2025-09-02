@@ -31,10 +31,10 @@ Experienced in developing production-grade systems with strong emphasis on autom
 
 ## Projects
 
-- **AI Object Detection TG Bot** – a Telegram bot selecting optimal object detection models (Faster R-CNN, RetinaNet, Mask R-CNN) via a Decision Tree classifier. Implemented in PyTorch. :contentReference[oaicite:1]{index=1}  
-- **AI Daily Tasks** – Telegram bot with Gemini-powered AI summaries, admin panel, REST API, Dockerized deployment; supports multi-group reminders and response history. :contentReference[oaicite:2]{index=2}  
-- **LunchBOT** – Telegram-based team lunch debt tracker with Streamlit admin interface, idempotent operations, and automated reminders. :contentReference[oaicite:3]{index=3}  
-- **Laptop Advisor** – Interactive Telegram bot that filters and recommends laptops by specifications via dynamic selection interface. :contentReference[oaicite:4]{index=4}  
+- **AI Object Detection TG Bot** – a Telegram bot selecting optimal object detection models (Faster R-CNN, RetinaNet, Mask R-CNN) via a Decision Tree classifier.
+- **AI Daily Tasks** – Telegram bot with Gemini-powered AI summaries, admin panel, REST API, Dockerized deployment; supports multi-group reminders and response history.
+- **LunchBOT** – Telegram-based team lunch debt tracker with Streamlit admin interface, idempotent operations, and automated reminders.
+- **Laptop Advisor** – Interactive Telegram bot that filters and recommends laptops by specifications via dynamic selection interface.
 
 ---
 
