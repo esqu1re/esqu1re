@@ -23,8 +23,8 @@ Experienced in developing production-grade systems with strong emphasis on autom
 
 ## GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esqu1re3&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esqu1re3&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esqu1re&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esqu1re&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
